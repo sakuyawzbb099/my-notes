@@ -13,13 +13,11 @@
 
 当前仓库地址：
 
-- `https://github.com/tao-t356/private-notes`
+- `https://github.com/sakuyawzbb099/my-notes`
 
 可以直接使用下面的一键部署按钮。Cloudflare 会根据 `wrangler.jsonc` 自动创建/绑定 D1，并根据 `.dev.vars.example` 提示填写 `APP_PASSWORD`、可选的 `APP_PASSWORDS` 和 `COOKIE_SECRET`；发布脚本会先执行 D1 migrations 再部署 Worker：
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tao-t356/private-notes)
-
-如果你 fork 了这个仓库，再把按钮里的地址改成你自己的 fork 地址。
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sakuyawzbb099/my-notes)
 
 ## 手动部署
 
